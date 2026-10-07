@@ -1,0 +1,443 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1791224573
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK:YjbQl4V[a9?6>bEV[b32
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1790854274
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/adder.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/adder.v
+!i122 15
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1791224573.000000
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work {+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components}
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 e]DPlg45d?T7PBdSnjeAg1
+R2
+IllWbECoX0iY4N7ZW=;:TM0
+R3
+R0
+w1791223157
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu.v
+!i122 14
+L0 12 35
+R5
+r1
+!s85 0
+31
+Z10 !s108 1791224572.000000
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu.v|
+!i113 1
+R7
+R8
+R9
+valu_decoder
+Z11 !s110 1791224572
+!i10b 1
+!s100 <I1?o[hQCT6A2>N<GY:iB0
+R2
+IRlHMPfn3MiZkMeTAk_>FU0
+R3
+R0
+w1791223783
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu_decoder.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu_decoder.v
+!i122 13
+L0 12 39
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu_decoder.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+R11
+!i10b 1
+!s100 cj0b4P?SB5:5W56<3N6022
+R2
+IKnSWZ94AnZ0^_0W^k]OLg0
+R3
+R0
+w1791223828
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/controller.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/controller.v
+!i122 12
+L0 12 27
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/controller.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+Z12 !s110 1791224571
+!i10b 1
+!s100 _^e]JLL9HN_``4^[2XCYF3
+R2
+IMPXYlgXiFY`>dS^SLjQY_0
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/data_mem.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/data_mem.v
+!i122 4
+Z13 L0 4 19
+R5
+r1
+!s85 0
+31
+Z14 !s108 1791224571.000000
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/data_mem.v|
+!i113 1
+R7
+Z15 !s92 -vlog01compat -work work {+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code}
+R9
+vdatapath
+R11
+!i10b 1
+!s100 0EYQEN:_0lmE5og7RlR132
+R2
+I>PTA@6dgI[PGk^f6SK7V52
+R3
+R0
+w1791223975
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/datapath.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/datapath.v
+!i122 11
+L0 11 99
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R11
+!i10b 1
+!s100 BF9n9R`8Ng1Z<>IQC?==k2
+R2
+I2fN]E6XaUHk7?8<>eh[6z1
+R3
+R0
+w1791224391
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/imm_extend.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/imm_extend.v
+!i122 10
+L0 11 27
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R1
+!i10b 1
+!s100 Og<7TIc_TlFM_QN]j;mZm3
+R2
+IQcE7g0J8@ALVLdag0QnL[1
+R3
+R0
+w1791188813
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/instr_mem.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/instr_mem.v
+!i122 16
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/instr_mem.v|
+!i113 1
+R7
+R15
+R9
+vload_unit
+Z16 !s110 1791224570
+!i10b 1
+!s100 Xj:>A8VS_2_FiJNOjnd]H1
+R2
+I_l?M^jD8XiCKT`[Jb6bcK1
+R3
+R0
+w1791223219
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/load_unit.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/load_unit.v
+!i122 1
+L0 11 33
+R5
+r1
+!s85 0
+31
+Z17 !s108 1791224570.000000
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/load_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/load_unit.v|
+!i113 1
+R7
+R8
+R9
+vmain_decoder
+R11
+!i10b 1
+!s100 JHg35kSEG4H@LJAO>Uo?z2
+R2
+I]hghfMf_RlUcLm=ZAm2R_3
+R3
+R0
+w1791224380
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/main_decoder.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/main_decoder.v
+!i122 9
+Z18 L0 12 36
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vmux2
+R12
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+I`QO=m?BOB5;f0h^>kg6[J1
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux2.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux2.v
+!i122 8
+Z19 L0 4 9
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R12
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+ImmUVd3oP2WQe15=cY^Y:02
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux4.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux4.v
+!i122 7
+R19
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R12
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+I7VF2:JJ_@^;d3gNK72@db3
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reg_file.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reg_file.v
+!i122 6
+L0 8 27
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R12
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+IzL9o3@496PnDAgim_6^cz1
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reset_ff.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reset_ff.v
+!i122 5
+L0 4 12
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+R12
+!i10b 1
+!s100 8mo5Bi0_eaG4?k1LaKCIL2
+R2
+IEn4B0diBWFMi;Xhm22k@e0
+R3
+R0
+w1791223487
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/riscv_cpu.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/riscv_cpu.v
+!i122 3
+R18
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/riscv_cpu.v|
+!i113 1
+R7
+R15
+R9
+vstore_unit
+R16
+!i10b 1
+!s100 PBeQ7CIRY^SoSNi0@34C;3
+R2
+I21ZPgF>Rai0YG_@L9CRe<2
+R3
+R0
+w1791223334
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/store_unit.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/store_unit.v
+!i122 0
+L0 12 24
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/store_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/store_unit.v|
+!i113 1
+R7
+R8
+R9
+vt1_riscv_cpu
+R16
+!i10b 1
+!s100 fkYl^oh@hX68Qj@J2DK>=1
+R2
+Iim>k7@DVlz<97hO2m<@YX0
+R3
+R0
+R4
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/t1_riscv_cpu.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/t1_riscv_cpu.v
+!i122 2
+L0 3 25
+R5
+r1
+!s85 0
+31
+R17
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/t1_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/t1_riscv_cpu.v|
+!i113 1
+R7
+R15
+R9
+vtb_1c
+R1
+!i10b 1
+!s100 ?f;S0EQ;D=AAAMZhLO8GU0
+R2
+IkRnSnoAA4f9G^l_8Vf`2P0
+R3
+R0
+w1791186670
+8C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test/tb_1c.v
+FC:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test/tb_1c.v
+!i122 17
+L0 3 535
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test/tb_1c.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test|C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test/tb_1c.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work {+incdir+C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/.test}
+R9
