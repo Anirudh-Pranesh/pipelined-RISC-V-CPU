@@ -1,2 +1,0 @@
-Warning (10273): Verilog HDL warning at imm_extend.v(33): extended using "x" or "z" File: C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/imm_extend.v Line: 33
-Warning (10268): Verilog HDL information at alu.v(19): always construct contains both blocking and non-blocking assignments File: C:/Unity and editor/Quartus projects/eYRC_26-27_Logic-Quest/Task_1/Task_1B/t1_riscv_cpu/code/components/alu.v Line: 19
